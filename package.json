@@ -1,0 +1,22 @@
+{
+  "name": "mgit",
+  "version": "1.0.0",
+  "description": "This is used to understand git pipelines",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Venkat-Dev1/Git-pipeline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Venkat-Dev1/Git-pipeline/issues"
+  },
+  "homepage": "https://github.com/Venkat-Dev1/Git-pipeline#readme"
+}
